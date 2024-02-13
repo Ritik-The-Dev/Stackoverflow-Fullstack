@@ -4,7 +4,7 @@ This is a Stack Overflow clone project built using Node.js and MongoDB. It allow
 Installation
 Clone the Repository
 
-git clone https://github.com/Ritik-The-Dev/Stackoverflow-Fullstack
+    git clone https://github.com/Ritik-The-Dev/Stackoverflow-Fullstack
 
 Client Installation
 
