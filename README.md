@@ -8,43 +8,37 @@ git clone https://github.com/Ritik-The-Dev/Stackoverflow-Fullstack
 
 Client Installation
 
-    Navigate to the client directory:
+Navigate to the client directory
 
+    cd client:
 
-cd stack-overflow-clone/client
+Install the required packages
 
-    Install the required packages:
+    npm install:
 
+Run the client code
 
-npm install
-
-    Run the client code:
-
-
-npm run dev
+    npm run dev:
 
 Server Installation
 
-    Navigate to the server directory:
+Navigate to the server directory
 
+    cd server:
 
-cd stack-overflow-clone/server
+Install the required packages
 
-    Install the required packages:
+    npm install:
 
+Run the server
 
-npm install
-
-    Run the server:
-
-
-npm start
+    npm start:
 
 Additional Steps
 
     Ensure you have Node.js and MongoDB installed on your machine.
     Configure MongoDB by setting up a database and obtaining the connection URI.
-    Set any necessary environment variables, such as the database connection string and API keys.
+    Set any necessary environment variables, such as the database connection string and port Number.
 
 Contributing
 
