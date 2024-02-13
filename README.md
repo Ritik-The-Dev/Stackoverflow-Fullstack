@@ -10,29 +10,29 @@ Client Installation
 
 Navigate to the client directory
 
-    cd client:
+    cd client
 
 Install the required packages
 
-    npm install:
+    npm install
 
 Run the client code
 
-    npm run dev:
+    npm run dev
 
 Server Installation
 
 Navigate to the server directory
 
-    cd server:
+    cd server
 
 Install the required packages
 
-    npm install:
+    npm install
 
 Run the server
 
-    npm start:
+    npm start
 
 Additional Steps
 
