@@ -1,0 +1,21 @@
+.boxdata{
+    background: #e7f8fe;
+    width: 30%;
+    height: 3rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 2rem;
+}
+.boxdata:hover{
+    background: #D3E4EB;
+}
+.inputLogin{
+    cursor: pointer;
+  width: 25rem;
+  height: 2rem;
+  margin-right: 1rem;
+  border-radius: 2rem;
+  padding: 10px;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
